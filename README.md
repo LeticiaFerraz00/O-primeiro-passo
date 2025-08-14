@@ -9,26 +9,34 @@ Neste [Projeto](https://leticiaferraz00.github.io/O-primeiro-passo/) entendi que
 
 ### 1-Compreensão de estrutura HTML ###
 
-•Entender uma linguagem de código não é uma tarefa fácil. A compreensão de suas estruturas como < head> e < body> são confusas e acabam dificultando o entendimento imediato.
+•No início, entender a lógica por trás do HTML foi um desafio. As tags e suas funções  como < head> e < body> não fizeram muito sentido logo de início. Para entendelas primeiro precisei pesquisar suas devidas funções, como mostrarei daqui a pouco.
+
 
 ### 2-TAGs ###
 
-•As **Tags** foram um problema ao iniciar o projeto. Algumas não são necessárias ou exigem o fechamento, mas a grande maioria não funciona se não obter o fechamento correto. Eu frequentemente me esquecia deste detalhe pequeno o que gerava problemas no código.
+•As tags no início foram um desafío pois logo percebi que nem todas exigem ser fechadas, mas a grande maioria precisa. No começo eu esqueci muitas vezes este pequeno detalhe, o que causava o mau funcionamento da página, me obrigando a ter um retrabalho para achar este erro que se perde facilmente aos olhos.
+
 
 ### 3- Pequenos erros ###
 
-•O fato de tudo ser inicial me fez ignorar detalhes simples, como alguns sinais de maior/menor, aspas ou digitalizar erradamente uma Tag o que impedia o funcionamento correto da página.
+•Sinais de maior e menor, aspas, letras maiúsculas ou minúsculas… qualquer deslize podia quebrar a página inteira e ao iniciar era frustrante a quantidade de vezes que uma tag digitalizada errado me tirava um tempo tentando resolve-la. Porém quanto mais erros mais eu entendia.
 
 
 ## ✅ Aprendizados ##
 
-### 1-Entendimento inicial do HTML ###
+### 1 – A importância da estruturação correta do HTML ###
 
-•Foi possível compreender que um documento HTML possuí certas "hierarquia" e assim conseguir diferenciar o que pertence ao < head> e ao < body>.
+Ao longo do projeto, percebi que o HTML é como uma herarquia dentro de uma pagina web: cada elemento possui um papel específico e a forma como eles se organizam influencia diretamente na funcionalidade e na leitura do código. 
+Entender essa hierarquia desde < !DOCTYPE html> até as funções de < head> e < body>  foi essencial para criar algo que funcionava. E essa visão não apenas facilita a manutenção do código, mas também contribui para que o conteúdo seja interpretado corretamente pelos navegadores e, consequentemente, entregue ao usuário final da forma correta.
 
-### 2- A importância da atenção aos pequenos detalhes ###
 
 
+### 2 – A atenção aos detalhes como fator decisivo ###
+
+Descobri que no desenvolvimento web, detalhes aparentemente insignificantes podem comprometer todo o resultado. Um fechamento de tag esquecido, uma letra maiúscula no lugar errado uma pontuação fora do lugar pode gerar erros que, a primeira vista, parece misterioso. Esses erros básicos me trouxeram a experiencia para desenvolver um olhar atento e entendimento de que revisar cada linha do código é tão importante quanto escreve-la.
+
+### 3 – O valor da pesquisa e do aprendizado contínuo ###
+Durante o processo, percebi que a programação é um campo onde o aprendizado nunca se esgota. Mesmo para resolver questões simples, precisei recorrer a diferentes fontes, desde documentações oficiais até fóruns de discussão. Essa prática não apenas resolveu dúvidas pontuais, mas também ampliou meu entendimento e me deu mais confiança para enfrentar novos desafios. Aprendi que saber pesquisar, interpretar e aplicar o conhecimento é uma habilidade tão importante quanto saber escrever o código.
 
 ![OkAllGIF](https://github.com/user-attachments/assets/f633692d-78c7-48b8-8a87-b2beb34ec8e1)
 
