@@ -36,7 +36,8 @@ Entender essa hierarquia desde < !DOCTYPE html> até as funções de < head> e <
 Descobri que no desenvolvimento web, detalhes aparentemente insignificantes podem comprometer todo o resultado. Um fechamento de tag esquecido, uma letra maiúscula no lugar errado uma pontuação fora do lugar pode gerar erros que, a primeira vista, parece misterioso. Esses erros básicos me trouxeram a experiencia para desenvolver um olhar atento e entendimento de que revisar cada linha do código é tão importante quanto escreve-la.
 
 ### 3 – O valor da pesquisa e do aprendizado contínuo ###
-Durante o processo, percebi que a programação é um campo onde o aprendizado nunca se esgota. Mesmo para resolver questões simples, precisei recorrer a diferentes fontes, desde documentações oficiais até fóruns de discussão. Essa prática não apenas resolveu dúvidas pontuais, mas também ampliou meu entendimento e me deu mais confiança para enfrentar novos desafios. Aprendi que saber pesquisar, interpretar e aplicar o conhecimento é uma habilidade tão importante quanto saber escrever o código.
+
+Durante o processo, percebi que por mais que a faculdade ou tutores te auxiliem na jornada tudo depende da sua vontade de pesquisar e obter as informações pois mesmo para resolver questões simples precisei recorrer a diferentes fontes, desde documentações oficiais até fóruns de discussões. Essa prática não apenas resolveu dúvidas, mas também ajudou meu entendimento e me deu mais confiança para enfrentar novos desafios. Entendi que saber pesquisar e entender o conhecimento é uma habilidade tão importante quanto desenvolver uma página web
 
 ![OkAllGIF](https://github.com/user-attachments/assets/f633692d-78c7-48b8-8a87-b2beb34ec8e1)
 
