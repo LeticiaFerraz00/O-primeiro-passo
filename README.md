@@ -3,7 +3,7 @@
 Acredito que a grande maioria de vocês já tiveram que escrever algum código HTML. Para quem já possuí ampla experiencia pode parecer algo fácil. Pórem para quem está começando, assim como eu, este projeto é um grande passo. 
 
 
-O [projeto](https://leticiaferraz00.github.io/O-primeiro-passo/) consiste em uma página simples, servindo como portfólio inicial. Nela, é possível encontrar título e uma breve apresentação.
+O [projeto]((https://leticiaferraz00.github.io/criacao-de-pagina-web/)) consiste em uma página simples, servindo como portfólio inicial. Nela, é possível encontrar título e uma breve apresentação.
 
 
 ## 🛠️ Estrutura Aplicada ##
@@ -73,7 +73,7 @@ Entender essa hierarquia desde < !DOCTYPE html> até as funções de < head> e <
 **O objetivo é transformar este primeiro contato com HTML em um projeto cada vez mais completo, funcional e visualmente atrativo, servindo como portfólio e base para aprendizados futuros.**
 
 
-[Projeto HTML](https://leticiaferraz00.github.io/O-primeiro-passo/)
+[Projeto HTML](https://leticiaferraz00.github.io/criacao-de-pagina-web/)
 
 
 
