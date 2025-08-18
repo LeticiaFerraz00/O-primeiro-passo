@@ -3,7 +3,7 @@
 Acredito que a grande maioria de vocês já tiveram que escrever algum código HTML. Para quem já possuí ampla experiencia pode parecer algo fácil. Pórem para quem está começando, assim como eu, este projeto é um grande passo. 
 
 
-O [projeto]((https://leticiaferraz00.github.io/criacao-de-pagina-web/)) consiste em uma página simples, servindo como portfólio inicial. Nela, é possível encontrar título e uma breve apresentação.
+O [projeto](https://leticiaferraz00.github.io/criacao-de-pagina-web/) consiste em uma página simples, servindo como portfólio inicial. Nela, é possível encontrar título e uma breve apresentação.
 
 
 ## 🛠️ Estrutura Aplicada ##
