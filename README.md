@@ -74,3 +74,11 @@ Entender essa hierarquia desde < !DOCTYPE html> até as funções de < head> e <
 
 
 [Projeto HTML](https://leticiaferraz00.github.io/O-primeiro-passo/)
+
+
+
+## Me encontre também em: ##
+
+<a href="https://www.linkedin.com/in/leticia-ferraz-66936737a/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/LeticiaFerraz00" ><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
