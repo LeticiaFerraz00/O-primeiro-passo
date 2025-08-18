@@ -22,23 +22,20 @@ Foram utilizadas as principais tags do HTML para construir a página:
 
 
 
-
 ## ✅ Aprendizados ##
 
 ### 1 – A importância da estruturação correta do HTML ###
 
 •Ao longo do projeto, percebi que o HTML é como uma herarquia dentro de uma pagina web: cada elemento possui um papel específico e a forma como eles se organizam influencia diretamente na funcionalidade e na leitura do código. 
-Entender essa hierarquia desde < !DOCTYPE html> até as funções de < head> e < body>  foi essencial para criar algo que funcionava. E essa visão não apenas facilita a manutenção do código, mas também contribui para que o conteúdo seja interpretado corretamente pelos navegadores e, consequentemente, entregue ao usuário final da forma correta.
-
-
+Entender essa hierarquia desde < !DOCTYPE html> até as funções de < head> e < body>  foi essencial para criar algo que funcionava. E essa visão não apenas facilita a manutenção do código, mas também contribui para que o conteúdo seja interpretado corretamente pelos navegadores e consequentemente entregue ao usuário final da forma correta.
 
 ### 2 – A atenção aos detalhes como fator decisivo ###
 
-•Descobri que no desenvolvimento web, detalhes aparentemente insignificantes podem comprometer todo o resultado. Um fechamento de tag esquecido, uma letra maiúscula no lugar errado uma pontuação fora do lugar pode gerar erros que, a primeira vista, parece misterioso. Esses erros básicos me trouxeram a experiencia para desenvolver um olhar atento e entendimento de que revisar cada linha do código é tão importante quanto escreve-la.
+•Descobri que no desenvolvimento web, detalhes aparentemente insignificantes podem comprometer todo o resultado. Um fechamento de tag esquecido, uma letra maiúscula no lugar errado uma pontuação fora do lugar pode gerar erros que, a primeira vista, parecem misteriosos. Esses erros básicos me trouxeram a experiencia para desenvolver um olhar atento e entendimento de que revisar cada linha do código é tão importante quanto escreve-la.
 
 ### 3 – O valor da pesquisa e do aprendizado contínuo ###
 
-•Durante o processo, percebi que por mais que a faculdade ou tutores te auxiliem na jornada tudo depende da sua vontade de pesquisar e obter as informações pois mesmo para resolver questões simples precisei recorrer a diferentes fontes, desde documentações oficiais até fóruns de discussões. Essa prática não apenas resolveu dúvidas, mas também ajudou meu entendimento e me deu mais confiança para enfrentar novos desafios. Entendi que saber pesquisar e entender o conhecimento é uma habilidade tão importante quanto desenvolver uma página web
+•Durante o processo, percebi que por mais que a faculdade ou tutores te auxiliem na jornada tudo depende da sua vontade de pesquisar e obter informações, pois mesmo que para resolver questões simples precisei recorrer a diferentes fontes, desde documentações oficiais até fóruns de discussões. Essa prática não apenas resolveu dúvidas, mas também ajudou meu entendimento e me deu mais confiança para enfrentar novos desafios. Entendi que saber pesquisar e entender o conhecimento é uma habilidade tão importante quanto desenvolver uma página web.
 
 
 
@@ -56,9 +53,24 @@ Entender essa hierarquia desde < !DOCTYPE html> até as funções de < head> e <
 
 •Questões simples como sinais de maior e menor, aspas, letras maiúsculas ou minúsculas, geravam falhas que quebravam toda a página. Inicialmente, era frustrante perceber a quantidade de vezes que uma tag digitada incorretamente comprometia o resultado. Com o tempo, percebi que cada erro me ajudava a compreender melhor a linguagem.
 
-![OkAllGIF](https://github.com/user-attachments/assets/f633692d-78c7-48b8-8a87-b2beb34ec8e1)
+
+## 🎯 Objetivos futuros ##
+
+**O projeto, inicialmente desenvolvido para praticar e compreender a estrutura do HTML, tem potencial para ser expandido e aprimorado com novas funcionalidades. Entre os próximos passos que desejo implementar, estão:**
 
 
 
+**1-Estilização com CSS:** aplicar cores, fontes e layouts para deixar a página mais atrativa e moderna.
 
-[Projeto](https://leticiaferraz00.github.io/O-primeiro-passo/)
+**2-Interatividade com JavaScript:** incluir elementos dinâmicos como botões, animações e validação de formulários.
+
+**3-Organização em múltiplas páginas:** transformar o projeto em um pequeno site, com navegação entre seções.
+
+**4-Integração de conteúdo multimídia:** adicionar imagens, vídeos e ícones para enriquecer a experiência visual.
+
+
+
+**O objetivo é transformar este primeiro contato com HTML em um projeto cada vez mais completo, funcional e visualmente atrativo, servindo como portfólio e base para aprendizados futuros.**
+
+
+[Projeto HTML](https://leticiaferraz00.github.io/O-primeiro-passo/)
